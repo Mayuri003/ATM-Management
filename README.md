@@ -1,4 +1,3 @@
 # ATM Management System
 
-
-        click here to visit https://mayuri003.github.io/ATM-Management/
+click here to visit https://github.com/Mayuri003/ATM-Management.git
